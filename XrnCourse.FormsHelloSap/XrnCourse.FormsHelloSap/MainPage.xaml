@@ -4,7 +4,8 @@
              xmlns:local="clr-namespace:XrnCourse.FormsHelloSap"
              x:Class="XrnCourse.FormsHelloSap.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
+	<Label x:Name="lblWelcome"
+           Text="Welcome to Xamarin Forms!" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 

@@ -12,6 +12,8 @@ namespace XrnCourse.FormsHelloSap
 		public MainPage()
 		{
 			InitializeComponent();
-		}
-	}
+
+
+        }
+    }
 }
